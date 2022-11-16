@@ -62,7 +62,7 @@ _____
 
 | Coffe Juls  | rockPaperScissors  | toDoSimple  |
 |---|---|---|
-| <a href="https://github.com/vallegrande/AS212S2_T04_COFFEEJULS.git" target="_blank"> <img src="/images/404.png" width="250" height="200"/></a> |  <a href="https://codepen.io/carlossalvadordiaz/pen/bGeXeGq" target="_blank"> <img src="/images/rps.png" width="250" height="200"/></a> | <a href="https://codepen.io/carlossalvadordiaz/pen/PozMmdq" target="_blank"> <img src="/images/toDo.png" width="250" height="200"/></a>  |
+| <a href="https://github.com/vallegrande/AS212S2_T04_COFFEEJULS.git" target="_blank"> <img src="Img/Cabezera.png" width="300" height="200"/></a> |  <a href="https://codepen.io/carlossalvadordiaz/pen/bGeXeGq" target="_blank"> <img src="/images/rps.png" width="250" height="200"/></a> | <a href="https://codepen.io/carlossalvadordiaz/pen/PozMmdq" target="_blank"> <img src="/images/toDo.png" width="250" height="200"/></a>  |
 
 _____
 <p>
