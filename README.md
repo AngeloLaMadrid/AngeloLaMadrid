@@ -53,11 +53,8 @@ _____
 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=angelolamadrid&show_icons=true&locale=en&layout=compact" alt="angelolamadrid" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=angelolamadrid&show_icons=true&locale=en" alt="angelolamadrid" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=angelolamadrid&" alt="angelolamadrid" /></p>
+_____
 
 
 #### Algunos de mis proyectos:
@@ -67,7 +64,12 @@ _____
 |---|---|---|
 | <a href="https://github.com/vallegrande/AS212S2_T04_COFFEEJULS.git" target="_blank"> <img src="/images/404.png" width="250" height="200"/></a> |  <a href="https://codepen.io/carlossalvadordiaz/pen/bGeXeGq" target="_blank"> <img src="/images/rps.png" width="250" height="200"/></a> | <a href="https://codepen.io/carlossalvadordiaz/pen/PozMmdq" target="_blank"> <img src="/images/toDo.png" width="250" height="200"/></a>  |
 
+_____
+<p>
+&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=angelolamadrid&show_icons=true&locale=en" alt="angelolamadrid" />
+</p>
+                                                                                                                                                 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=angelolamadrid&" alt="angelolamadrid" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=angelolamadrid&show_icons=true&locale=en&layout=compact" alt="angelolamadrid"/></p>
 
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=carlossalvadordiaz&show_icons=true&locale=en&layout=compact" alt="carlossalvadordiaz" /></p>
 
