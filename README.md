@@ -1,7 +1,7 @@
 <h1 align="center">Angelo La Madrid</h1>
 <h4 align="center">Estudiante para la carrera de análisis de sistemas</h4>
 
-
+(INFORMACION DEL 2DO SEMESTRE)
 
 <h3 align="left">Tengo conocimientos sobre:</h3>
 <p align="left">
