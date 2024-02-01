@@ -104,15 +104,6 @@ _____
 _____
 
 
-#### Algunos de mis proyectos:
-
-
-| Coffe Juls  | Sistema de hotel  | Sistema de restaurante  |
-|---|---|---|
-| <a href="https://github.com/vallegrande/AS212S2_T04_COFFEEJULS.git" target="_blank"> <img src="Img/Cabezera.png" width="300" height="200"/></a> |  <a href="https://codepen.io/carlossalvadordiaz/pen/bGeXeGq" target="_blank"> <img src="/images/rps.png" width="250" height="200"/></a> | <a href="https://codepen.io/carlossalvadordiaz/pen/PozMmdq" target="_blank"> <img src="/images/toDo.png" width="250" height="200"/></a>  |
-
-_____
-
                                                                                                                                                  
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=angelolamadrid&" alt="angelolamadrid" /></p>
 
