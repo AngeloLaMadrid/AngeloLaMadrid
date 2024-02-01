@@ -2,6 +2,7 @@
 <h4 align="center">Estudiante</h4>
 
 
+
 <h3 align="left">Tengo conocimientos sobre:</h3>
 <p align="left">
 </p>
@@ -109,4 +110,11 @@ _____
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=angelolamadrid&show_icons=true&locale=en&layout=compact" alt="angelolamadrid"/></p>
 
+_____
+
+# Proyecto 2do semestre
+
+[![Redirige al repositorio](https://img.shields.io/badge/Ver%20en%20GitHub-angellamadrid%2FProyectosJAVA_2doSemestre-blue)](https://github.com/AngeloLaMadrid/ProyectosJAVA_2doSemestre.git)
+
+![MenuJuego](https://github.com/AngeloLaMadrid/ProyectosJAVA_2doSemestre/assets/101282128/b13a34b9-502f-49da-a70a-39b90fd08f48)
 
