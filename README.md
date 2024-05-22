@@ -2,7 +2,7 @@
 <h4 align="center">Estudiante</h4>
 
 
-
+<!--
 <h3 align="left">Tengo conocimientos sobre:</h3>
 <p align="left">
 </p>
@@ -99,7 +99,7 @@ _____
 
 </p>
 
-
+-->
 _____
 
 
@@ -110,7 +110,7 @@ _____
 
 _____
 
-# Proyecto 2do semestre
+# Proyecto random
 
 [![Redirige al repositorio](https://img.shields.io/badge/Ver%20en%20GitHub-angellamadrid%2FProyectosJAVA_2doSemestre-blue)](https://github.com/AngeloLaMadrid/ProyectosJAVA_2doSemestre.git)
 
