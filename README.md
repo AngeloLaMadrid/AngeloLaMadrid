@@ -199,10 +199,16 @@ _____
 
 
 
----
 
-<a href="https://www.linkedin.com/in/angelo-la-madrid-7a970423a/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
-<a href="mailto:angelo.lamadrid@vallegrande.edu.pe"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" style="width: 91%;">
+<p align="center">
+    <a href="https://www.linkedin.com/in/angelo-la-madrid-7a970423a/" style="display: inline-block; margin-right: 20px;">
+        <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/>
+    </a>
+    <a href="mailto:angelo.lamadrid@vallegrande.edu.pe" style="display: inline-block;">
+        <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
+    </a>
+</p>
 
 <!--
 </p>
