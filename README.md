@@ -1,6 +1,3 @@
-
-
-
 <p align="center" style="position: relative;">
   <!-- Primer gif (gato) -->
   <img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" alt="Cat" style="position: absolute; top: 0; left: 0; z-index: 1;">
@@ -188,7 +185,8 @@ _____
 
 
 
-# Proyect
+# <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />Proyect&nbsp;<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
+
 
 
 [![Redirige al repositorio](https://img.shields.io/badge/Ver%20en%20GitHub-AngeloLaMadrid%2FProyectosJAVA_2doSemestre-blue)](https://github.com/AngeloLaMadrid/ProyectosJAVA_2doSemestre.git)
@@ -198,22 +196,13 @@ _____
   <img src="https://github.com/AngeloLaMadrid/ProyectosJAVA_2doSemestre/assets/101282128/b13a34b9-502f-49da-a70a-39b90fd08f48" alt="MenuJuego" style="z-index: 0;">
 
 
+<div align="center">
+  <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/>
+  <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
+</div>
+    
 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" style="width: 100%;">
-<p align="center">
-    <a href="https://www.linkedin.com/in/angelo-la-madrid-7a970423a/" style="display: inline-block; margin-right: 20px;">
-        <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/>
-    </a>
-    <a href="mailto:angelo.lamadrid@vallegrande.edu.pe" style="display: inline-block;">
-        <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
-    </a>
-</p>
 
-<!--
-</p>
 
-![Abhinandan Trilokia](https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg)
-<br>
-</p>
--->
