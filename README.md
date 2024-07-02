@@ -2,7 +2,7 @@
   <!-- Primer gif (gato) -->
   <img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" alt="Cat" style="position: absolute; top: 0; left: 0; z-index: 1;">
 </p>
-
+ 
 <!--
 <h3 align="left">Tengo conocimientos sobre:</h3>
 <p align="left">
