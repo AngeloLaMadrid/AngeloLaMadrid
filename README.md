@@ -135,6 +135,7 @@
 
 </div>
 
+<img src="https://raw.githubusercontent.com/AngeloLaMadrid/AngeloLaMadrid/snake/github-snake-dark.svg" alt="GitHub Snake Animation" width="100%">
 
 
 <!--
