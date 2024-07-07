@@ -1,3 +1,4 @@
+
 <p align="center" style="position: relative;">
   <!-- Primer gif (gato) -->
   <img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" alt="Cat" style="position: absolute; top: 0; left: 0; z-index: 1;">
@@ -86,7 +87,11 @@
 
   ---
 
-# 📊 GitHub Stats
+  
+
+
+# <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> GitHub Stats
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AngeloLaMadrid&theme=nord&hide_border=false" alt="GitHub Streak" height="200" />
@@ -96,7 +101,9 @@
 
 
 <details>
-  <summary>🎉 Ver más detalles</summary>
+  <summary> 
+    <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25px">&nbsp;Ver más detalles
+  </summary>
 
   ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AngeloLaMadrid&theme=nord_dark)
   ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AngeloLaMadrid&theme=nord_dark)
