@@ -86,30 +86,24 @@
 
   ---
 
-# 📊 GitHub Stats:
+# 📊 GitHub Stats
+
 <p align="center">
-  
-  ![AngeloLaMadrid's Streak](https://github-readme-streak-stats.herokuapp.com/?user=AngeloLaMadrid&theme=nord&hide_border=false)
-
- 
-  
-<img src="https://github-readme-stats.vercel.app/api?username=AngeloLaMadrid&theme=nord&hide_border=false&include_all_commits=true&count_private=true" height="200" />
-
-
-    
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AngeloLaMadrid&theme=nord&hide_border=false" alt="GitHub Streak" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngeloLaMadrid&theme=nord&show_icons=true&hide_border=false&layout=compact" alt="Top Languages" height="200" />
 </p>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AngeloLaMadrid&theme=nord_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AngeloLaMadrid&theme=nord_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AngeloLaMadrid&theme=nord_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AngeloLaMadrid&theme=nord_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AngeloLaMadrid&theme=nord_dark&utcOffset=8)
-<div>
-  
-![AngeloLaMadrid's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AngeloLaMadrid&theme=nord&show_icons=true&hide_border=false&layout=compact)
-  
- </div>
+
+
+<details>
+  <summary>🎉 Ver más detalles</summary>
+
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AngeloLaMadrid&theme=nord_dark)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AngeloLaMadrid&theme=nord_dark)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AngeloLaMadrid&theme=nord_dark)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AngeloLaMadrid&theme=nord_dark)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AngeloLaMadrid&theme=nord_dark&utcOffset=8)
+</details>
 
   ---
 
