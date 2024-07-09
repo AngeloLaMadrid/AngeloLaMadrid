@@ -117,9 +117,11 @@
 </p>
 
 <details>
-  <summary>
-    <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25px">&nbsp;Ver más detalles
-  </summary>
+  
+<summary align="center">
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25px">&nbsp;&nbsp;Ver más detalles
+</summary>
+
 
   <p align="center">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AngeloLaMadrid&theme=nord_dark" alt="Profile Details">
