@@ -1,3 +1,8 @@
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=1202&pause=1001&center=true&vCenter=true&random=false&width=435&lines=Angelo+La+Madrid;%F0%9F%93%9ASiempre+aprendiendo%F0%9F%93%9A;%F0%9F%9B%A0%EF%B8%8FBackend%F0%9F%9B%A0%EF%B8%8F;%F0%9F%93%B1Frontend%F0%9F%93%B1;%E2%98%B8%EF%B8%8FKubernetes%E2%98%B8%EF%B8%8F;%F0%9F%8C%B1Aprendizaje+continuo%F0%9F%8C%B1;%F0%9F%9A%80)" alt="Typing SVG">
+  </a>
+</p>
 
 <p align="center" style="position: relative;">
   <!-- Primer gif (gato) -->
