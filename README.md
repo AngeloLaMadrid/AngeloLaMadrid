@@ -80,6 +80,8 @@
   <img src="https://img.shields.io/badge/zoom-%232D8CFF.svg?style=for-the-badge&logo=zoom&logoColor=white" alt="Zoom">
   <img src="https://img.shields.io/badge/slack-%234A154B.svg?style=for-the-badge&logo=slack&logoColor=white" alt="Slack">
   <img src="https://img.shields.io/badge/trello-%23026AA7.svg?style=for-the-badge&logo=trello&logoColor=white" alt="Trello">
+   <img src="https://img.shields.io/badge/Google_Meet-%233DDC84.svg?style=for-the-badge&logo=googlemeet&logoColor=white" alt="Google Meet">
+  <img src="https://img.shields.io/badge/Google_Drive-%234285F4.svg?style=for-the-badge&logo=googledrive&logoColor=white" alt="Google Drive">
   <img src="https://img.shields.io/badge/discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
 </p>
 
@@ -93,70 +95,77 @@
   <img src="https://img.shields.io/badge/GitHub_Codespaces-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Codespaces">
 </p>
 
-
-<div align="center">
-  
-  ## 🛠️ Tools
-  
-  ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) 
-  ![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515) 
-  ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
-  ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
-  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
-  ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) 
-
-  ---
-
-  
+<!-- Diseño -->
+<h2 align="center">Diseño</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
+  <img src="https://img.shields.io/badge/canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white" alt="Canva">
+</p>
 
 
-# <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> GitHub Stats
 
+
+
+
+<h1 align="center">
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> GitHub Stats
+</h1>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AngeloLaMadrid&theme=nord&hide_border=false" alt="GitHub Streak" height="200" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngeloLaMadrid&theme=nord&show_icons=true&hide_border=false&layout=compact" alt="Top Languages" height="200" />
 </p>
 
-
-
 <details>
-  <summary> 
+  <summary>
     <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25px">&nbsp;Ver más detalles
   </summary>
 
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AngeloLaMadrid&theme=nord_dark)
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AngeloLaMadrid&theme=nord_dark)
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AngeloLaMadrid&theme=nord_dark)
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AngeloLaMadrid&theme=nord_dark)
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AngeloLaMadrid&theme=nord_dark&utcOffset=8)
+  <p align="center">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AngeloLaMadrid&theme=nord_dark" alt="Profile Details">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AngeloLaMadrid&theme=nord_dark" alt="Repos per Language">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AngeloLaMadrid&theme=nord_dark" alt="Most Commit Language">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AngeloLaMadrid&theme=nord_dark" alt="Stats">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AngeloLaMadrid&theme=nord_dark&utcOffset=8" alt="Productive Time">
+  </p>
 </details>
 
-  ---
+---
 
-  # <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /> Proyect&nbsp;<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
+<h1 align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /> Proyecto&nbsp;<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
+</h1>
 
-  [![Redirige al repositorio](https://img.shields.io/badge/Ver%20en%20GitHub-AngeloLaMadrid%2FProyectosJAVA_2doSemestre-blue)](https://github.com/AngeloLaMadrid/ProyectosJAVA_2doSemestre.git)
+<p align="center">
+  <a href="https://github.com/AngeloLaMadrid/ProyectosJAVA_2doSemestre.git">
+    <img src="https://img.shields.io/badge/Ver%20en%20GitHub-AngeloLaMadrid%2FProyectosJAVA_2doSemestre-blue" alt="Redirige al repositorio">
+  </a>
+</p>
 
+<p align="center">
   <img src="https://github.com/AngeloLaMadrid/ProyectosJAVA_2doSemestre/assets/101282128/b13a34b9-502f-49da-a70a-39b90fd08f48" alt="MenuJuego" style="z-index: 0;">
+</p>
 
-  ---
+---
 
-  ## 🌐 Connect with Me
-  <div>
-    <a href="https://www.linkedin.com/in/angelo-lamadrid" target="_blank">
-      <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/>
-    </a>
-    <a href="mailto:angelo.lamadrid@vallegrande.edu.pe" target="_blank">
-      <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
-    </a>
-  </div>
+<h2 align="center">🌐 Connect with Me</h2>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/angelo-lamadrid" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:angelo.lamadrid@vallegrande.edu.pe" target="_blank">
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" style="width: 100%;">
+</p>
 
-</div>
-
-<img src="https://raw.githubusercontent.com/AngeloLaMadrid/AngeloLaMadrid/snake/github-snake-dark.svg" alt="GitHub Snake Animation" width="100%">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AngeloLaMadrid/AngeloLaMadrid/snake/github-snake-dark.svg" alt="GitHub Snake Animation" width="100%">
+</p>
 
 
 <!--
