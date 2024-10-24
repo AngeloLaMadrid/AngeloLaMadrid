@@ -124,7 +124,7 @@
 <details>
   
 <summary align="center">
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25px">&nbsp;&nbsp;Ver más detalles
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25px">&nbsp;&nbsp; ⬇️⬇️ Ver más detalles ⬇️⬇️
 </summary>
 
 
