@@ -21,6 +21,13 @@ jobs:
     timeout-minutes: 5
     
     steps:
+      # Ensure the directory exists and create the log file with appropriate permissions
+      - name: Setup dist directory and snake_logs.txt
+        run: |
+          mkdir -p dist
+          touch dist/snake_logs.txt
+          chmod 666 dist/snake_logs.txt
+
       # generates a snake game from a github user (<github_user_name>) contributions graph
       - name: Generate github-contribution-grid-snake.svg
         uses: Platane/snk@v3
