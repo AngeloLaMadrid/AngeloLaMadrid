@@ -1,6 +1,7 @@
 name: Personal Commit
 
 on:
+  workflow_dispatch: {} # TEMPORAL: solo para verificar el guard en vivo, se retira después
   schedule:
     # Cron no soporta "último día del mes" directamente: corre los días 28-31
     # a las 8:00 AM hora Perú (UTC-5) y el step "Check" filtra para que el
