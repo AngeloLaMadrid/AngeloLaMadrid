@@ -2,18 +2,32 @@ name: Personal Commit
 
 on:
   schedule:
-    # Ejecutar todos los días a las 8:00 AM hora Perú (UTC-5)
-    - cron: '0 13 * * *'  # 8:00 AM en Perú es 1:00 PM UTC
+    # Cron no soporta "último día del mes" directamente: corre los días 28-31
+    # a las 8:00 AM hora Perú (UTC-5) y el step "Check" filtra para que el
+    # commit real solo ocurra si mañana es día 1 (o sea, hoy es el último día).
+    - cron: '0 13 28-31 * *'  # 8:00 AM en Perú es 1:00 PM UTC
 
 jobs:
   commit:
     runs-on: ubuntu-latest
 
     steps:
+      - name: Check if today is the last day of the month
+        id: check
+        run: |
+          tomorrow=$(date -d tomorrow +%d)
+          if [ "$tomorrow" = "01" ]; then
+            echo "is_last_day=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "is_last_day=false" >> "$GITHUB_OUTPUT"
+          fi
+
       - name: Checkout repository
+        if: steps.check.outputs.is_last_day == 'true'
         uses: actions/checkout@v2
 
       - name: Set up Git
+        if: steps.check.outputs.is_last_day == 'true'
         env:
           GIT_USER_NAME: ${{ secrets.GIT_USER_NAME }}
           GIT_USER_EMAIL: ${{ secrets.GIT_USER_EMAIL }}
@@ -22,6 +36,7 @@ jobs:
           git config --global user.email "${GIT_USER_EMAIL}"
 
       - name: Make changes and commit
+        if: steps.check.outputs.is_last_day == 'true'
         run: |
           for i in 1 2; do
             echo "Mi Commit diario $i" >> daily_$i.txt
@@ -30,6 +45,7 @@ jobs:
           done
 
       - name: Push changes
+        if: steps.check.outputs.is_last_day == 'true'
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
